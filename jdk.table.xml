@@ -1,0 +1,93 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.12 (/usr/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="/usr/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/lib/python2.7/dist-packages" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-1247972723" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.0 (~/.pyenv/versions/3.5.0/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.0" />
+      <homePath value="$USER_HOME$/.pyenv/versions/3.5.0/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.0/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.0/lib/python3.5/plat-linux" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.0/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.local/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.0/lib/python3.5/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/.pyenv/versions/3.5.0/lib/python3.5/site-packages/pylint_pycharm-1.0.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/1958880606" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/.pyenv/versions/dmp" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/.pyenv/versions/dmp/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.3/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.3/lib/python3.5/plat-linux" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.3/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/dmp/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-111942221" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

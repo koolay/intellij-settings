@@ -1,0 +1,28 @@
+<toolSet name="External Tools">
+  <tool name="scmt" description="scmt" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/scmt" />
+      <option name="PARAMETERS" value="create  --name $ProjectName$ -s $FilePath$ -l php  -o http://apicloud.mypaas.com.cn/api/open/swagger -o stdout --version 1.0.0 -H x-ticket=&quot;N39e77h1ZIh2rOcv&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="pylint" description="pylint" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.pyenv/versions/3.5.3/envs/dmp/bin/pylint" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+    <filter>
+      <option name="NAME" value="Filter 1" />
+      <option name="DESCRIPTION" />
+      <option name="REGEXP" value="$FILE_PATH$\:$LINE$\:$COLUMN$\:.*" />
+    </filter>
+  </tool>
+  <tool name="black" description=" Black is the uncompromising Python code formatter" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.pyenv/versions/dmp36/bin/black" />
+      <option name="PARAMETERS" value="$FilePath$ --verbose --skip-string-normalization" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
